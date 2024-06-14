@@ -1,5 +1,5 @@
 # term deposit marketing campaign subscription prediction 
-capstone_3-adlan
+
 Business Issues
 Company Background : The bank wants to create a problem that helps decide which customers to target in its term deposit marketing campaign. This system will predict whether the customer will answer "yes" or "no" to the term deposit offer.
 
